@@ -1,0 +1,120 @@
+premise: Young people and a kid are walking in the forest in a sunny day.
+hypothesis: The old folks were racing in their wheel chairs in the rain.
+Table: 
+| step | subquestion | answer |
+| --- | --- | --- |
+| 1 | What information can be obtained through the premise? | The premise says that young people are walking, and the hypothesis says that old people are running a race. |
+| 2 | What information can be obtained through a hypothesis? | The premise talks about young people, and the hypothesis talks about old people. | 
+| 3 | Judging from the two pieces of information, what does the relationship between the two sentences correspond to: 'contradiction', 'entailment', or 'neutral'? | contradiction |
+label: contradiction
+
+premise: Young woman is putting her clothes in the dryer portion of a double stacked washer and dryer unit.
+hypothesis: A person drying clothes
+Table: 
+| step | subquestion | answer |
+| --- | --- | --- |
+| 1 | What information can be obtained through the premise? | Both the premise and the hypothesis are about drying clothes. |
+| 2 | What information can be obtained through a hypothesis? | A woman is a type of person. | 
+| 3 | Judging from the two pieces of information, what does the relationship between the two sentences correspond to: 'contradiction', 'entailment', or 'neutral'? | entailment |
+label: entailment
+
+premise: Young boy wearing pajamas lying down in bed and sleeping on a colorful striped pillow.
+hypothesis: A young boy is sleeping at a sleep over.
+Table: 
+| step | subquestion | answer |
+| --- | --- | --- |
+| 1 | What information can be obtained through the premise? | The premise is that the boy is lying down, and the hypothesis is that the boy is sleeping. |
+| 2 | What information can be obtained through a hypothesis? | Lying down doesn't mean you're sleeping. |
+| 3 | Judging from the two pieces of information, what does the relationship between the two sentences correspond to: 'contradiction', 'entailment', or 'neutral'? | neutral |
+label: neutral
+{shot}
+premise: Women sit on a beach as they watch men bring in a fishing net filled with fish in front of them.
+hypothesis: Women and men sing indoors.
+Table: 
+| step | subquestion | answer |
+| --- | --- | --- |
+| 1 | What information can be obtained through the premise? | The premise is that a woman and a man are outdoors, and the hypothesis is that a woman and a man are indoors. |
+| 2 | What information can be obtained through a hypothesis? | People cannot be outdoors and indoors at the same time. |
+| 3 | Judging from the two pieces of information, what does the relationship between the two sentences correspond to: 'contradiction', 'entailment', or 'neutral'? | contradiction |
+label: contradiction
+
+premise: Women playing volleyball in the sand near the ocean.
+hypothesis: Women playing a sport
+Table: 
+| step | subquestion | answer |
+| --- | --- | --- |
+| 1 | What information can be obtained through the premise? | Both the premise and the hypothesis are that women exercise. |
+| 2 | What information can be obtained through a hypothesis? | Volleyball is a type of sport. |
+| 3 | Judging from the two pieces of information, what does the relationship between the two sentences correspond to: 'contradiction', 'entailment', or 'neutral'? | entailment |
+label: entailment
+
+premise: Two women sitting at a table with their hands together.
+hypothesis: Two women are praying at a table before they eat their lunch.
+Table: 
+| step | subquestion | answer |
+| --- | --- | --- |
+| 1 | What information can be obtained through the premise? | The premise is that women are sitting at a table with their hands folded, and the hypothesis is that women are praying before lunch. |
+| 2 | What information can be obtained through a hypothesis? | Putting your hands together does not necessarily mean you are praying. |
+| 3 | Judging from the two pieces of information, what does the relationship between the two sentences correspond to: 'contradiction', 'entailment', or 'neutral'? | neutral |
+label: neutral
+{shot}
+premise: Two young children, one wearing a red striped shirt, are looking in through the window while an adult in a pink shirt watches from behind.
+hypothesis: Nobody has a shirt
+Table: 
+| step | subquestion | answer |
+| --- | --- | --- |
+| 1 | What information can be obtained through the premise? | The premise is about two children wearing shirts, and the hypothesis is that no one is wearing a shirt. |
+| 2 | What information can be obtained through a hypothesis? | The information about the number of people wearing shirts is different from the premise and hypothesis. |
+| 3 | Judging from the two pieces of information, what does the relationship between the two sentences correspond to: 'contradiction', 'entailment', or 'neutral'? | This means that the information that can be obtained from the premise and hypothesis is different. Therefore, the answer is contradiction. |
+label: contradiction
+
+premise: Two women bend over to touch a small kangaroo.
+hypothesis: Two women are petting a kangaroo
+Table: 
+| step | subquestion | answer |
+| --- | --- | --- |
+| 1 | What information can be obtained through the premise? | Both the premise and hypothesis are about women meeting kangaroos. |
+| 2 | What information can be obtained through a hypothesis? | The information that can be obtained from the premise and the information that can be obtained from the hypothesis are the same. |
+| 3 | Judging from the two pieces of information, what does the relationship between the two sentences correspond to: 'contradiction', 'entailment', or 'neutral'? | This means that the premise entails a hypothesis. So the answer is entailment. |
+label: entailment
+
+premise: The young man is trying to balance on the train tracks.
+hypothesis: A young man is trying to balance on the train tracks while riding his bicycle.
+Table: 
+| step | subquestion | answer |
+| --- | --- | --- |
+| 1 | What information can be obtained through the premise? | The premise is that a young man is balancing on a train track, and the hypothesis is that a young man is balancing while riding a bicycle on the tracks. |
+| 2 | What information can be obtained through a hypothesis? | The premise does not include the fact that the man is riding a bicycle. |
+| 3 | Judging from the two pieces of information, what does the relationship between the two sentences correspond to: 'contradiction', 'entailment', or 'neutral'? | This means that it is impossible to tell whether the man is riding a bicycle. Therefore, the answer is neutral. |
+label: neutral
+{shot}
+premise: There are children playing in the snow and one of them is making a snowball.
+hypothesis: Two children fight over the remote.
+Table: 
+| step | subquestion | answer |
+| --- | --- | --- |
+| 1 | What information can be obtained through the premise? | The premise is that children are playing outdoors, and the hypothesis is that children are fighting. |
+| 2 | What information can be obtained through a hypothesis? | People cannot fight and play at the same time. |
+| 3 | Judging from the two pieces of information, what does the relationship between the two sentences correspond to: 'contradiction', 'entailment', or 'neutral'? | This means that the information that can be obtained through premises and the information that can be obtained through hypotheses are different. Therefore, the answer is contradiction. |
+label: contradiction
+
+premise: this Man, with a Red& White Shirt has Water Bottles on this White Truck.
+hypothesis: the guy has bottles on the truck
+Table: 
+| step | subquestion | answer |
+| --- | --- | --- |
+| 1 | What information can be obtained through the premise? | Both the premise and the hypothesis are that a man has a bottle in his truck. |
+| 2 | What information can be obtained through a hypothesis? | The information that can be obtained from the premise and the information that can be obtained from the hypothesis are the same. |
+| 3 | Judging from the two pieces of information, what does the relationship between the two sentences correspond to: 'contradiction', 'entailment', or 'neutral'? | This means that the premise entails a hypothesis. Therefore, the answer is entailment. |
+label: entailment
+
+premise: A young woman skateboarding on an outdoor basketball court in front of a mural.
+hypothesis: The young woman is wearing a helmet.
+Table: 
+| step | subquestion | answer |
+| --- | --- | --- |
+| 1 | What information can be obtained through the premise? | The premise is that a woman skateboards outdoors, and the hypothesis is that the woman wears a helmet. |
+| 2 | What information can be obtained through a hypothesis? | There is no mention of wearing a helmet in the premise. |
+| 3 | Judging from the two pieces of information, what does the relationship between the two sentences correspond to: 'contradiction', 'entailment', or 'neutral'? | This means that it is impossible to tell whether the woman was wearing a helmet or not. Therefore, the answer is neutral. |
+label: neutral
+{shot}
