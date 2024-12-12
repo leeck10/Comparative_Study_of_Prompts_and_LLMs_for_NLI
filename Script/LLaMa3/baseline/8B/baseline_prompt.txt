@@ -1,0 +1,48 @@
+premise: Young people and a kid are walking in the forest in a sunny day.
+hypothesis: The old folks were racing in their wheel chairs in the rain.
+Label : contradiction
+
+premise: Young woman is putting her clothes in the dryer portion of a double stacked washer and dryer unit.
+hypothesis: A person drying clothes
+Label : entailment
+
+premise: Young boy wearing pajamas lying down in bed and sleeping on a colorful striped pillow.
+hypothesis: A young boy is sleeping at a sleep over.
+Label : neutral
+{shot}
+premise: Women sit on a beach as they watch men bring in a fishing net filled with fish in front of them.
+hypothesis: Women and men sing indoors.
+Label : contradiction
+
+premise: Women playing volleyball in the sand near the ocean.
+hypothesis: Women playing a sport
+Label : entailment
+
+premise: Two women sitting at a table with their hands together.
+hypothesis: Two women are praying at a table before they eat their lunch.
+Label : neutral
+{shot}
+premise: Two young children, one wearing a red striped shirt, are looking in through the window while an adult in a pink shirt watches from behind.
+hypothesis: Nobody has a shirt
+Label : contradiction
+
+premise: Two women bend over to touch a small kangaroo.
+hypothesis: Two women are petting a kangaroo
+Label : entailment
+
+premise: The young man is trying to balance on the train tracks.
+hypothesis: A young man is trying to balance on the train tracks while riding his bicycle.
+Label : neutral
+{shot}
+premise: There are children playing in the snow and one of them is making a snowball.
+hypothesis: Two children fight over the remote.
+Label : contradiction
+
+premise: this Man, with a Red& White Shirt has Water Bottles on this White Truck.
+hypothesis: the guy has bottles on the truck
+Label : entailment
+
+premise: A young woman skateboarding on an outdoor basketball court in front of a mural.
+hypothesis: The young woman is wearing a helmet.
+Label : neutral
+{shot}
