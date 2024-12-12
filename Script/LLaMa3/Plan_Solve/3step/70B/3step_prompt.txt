@@ -1,0 +1,72 @@
+premise: Young people and a kid are walking in the forest in a sunny day.
+hypothesis: The old folks were racing in their wheel chairs in the rain.
+Plan: Step1. Understand the premise and hypothesis// Step2. Determine if there is a difference between the information that can be obtained from the premises and the information that can be obtained from the hypothesis.// Step3. Based on what you understand, determine whether the premise falls under 'contradiciton', 'entailment', or 'neutral'.
+Solution: Step1. The premise says that young people are walking, and the hypothesis says that old people are running a race.// Step2. The premise talks about young people, and the hypothesis talks about old people.// Step3. This means that the information that can be obtained from premises and hypotheses is different. Therefore, the answer is contradiciton.
+answer: contradiction
+
+premise: Young woman is putting her clothes in the dryer portion of a double stacked washer and dryer unit.
+hypothesis: A person drying clothes
+Plan: Step1. Understand the premise and hypothesis// Step2. Determine if there is a difference between the information that can be obtained from the premises and the information that can be obtained from the hypothesis.// Step3. Based on what you understand, determine whether the premise falls under 'contradiciton', 'entailment', or 'neutral'.
+Solution: Step1. Both the premise and the hypothesis are about drying clothes.// Step2. A woman is a type of person.// Step3. This means that the premise and hypothesis are the same. Therefore, the answer is entailment.
+answer: entailment
+
+premise: Young boy wearing pajamas lying down in bed and sleeping on a colorful striped pillow.
+hypothesis: A young boy is sleeping at a sleep over.
+Plan: Step1. Understand the premise and hypothesis// Step2. Determine if there is a difference between the information that can be obtained from the premises and the information that can be obtained from the hypothesis.// Step3. Based on what you understand, determine whether the premise falls under 'contradiciton', 'entailment', or 'neutral'.
+Solution: Step1. The premise is that the boy is lying down, and the hypothesis is that the boy is sleeping.// Step2. Lying down doesn't mean you're sleeping.// Step3. This means that it is impossible to know whether the boy is sleeping. Therefore, the answer is neutral.
+answer: neutral
+{shot}
+premise: Women sit on a beach as they watch men bring in a fishing net filled with fish in front of them.
+hypothesis: Women and men sing indoors.
+Plan: Step1. Understand the premise and hypothesis// Step2. Determine if there is a difference between the information that can be obtained from the premises and the information that can be obtained from the hypothesis.// Step3. Based on what you understand, determine whether the premise falls under 'contradiciton', 'entailment', or 'neutral'.
+Solution: Step1. The premise is that a woman and a man are outdoors, and the hypothesis is that a woman and a man are indoors.// Step2. People cannot be outdoors and indoors at the same time.// Step3. This means that the information that can be obtained from the premise and the information that can be obtained from the hypothesis are different. Therefore, the answer is contradiction.
+answer: contradiction
+
+premise: Women playing volleyball in the sand near the ocean.
+hypothesis: Women playing a sport
+Plan: Step1. Understand the premise and hypothesis// Step2. Determine if there is a difference between the information that can be obtained from the premises and the information that can be obtained from the hypothesis.// Step3. Based on what you understand, determine whether the premise falls under 'contradiciton', 'entailment', or 'neutral'.
+Solution: Step1. Both the premise and the hypothesis are that women exercise.// Step2. Volleyball is a type of sport.// Step3. Therefore, the contents of the premise and hypothesis are the same. The answer is entailment.
+answer: entailment
+
+premise: Two women sitting at a table with their hands together.
+hypothesis: Two women are praying at a table before they eat their lunch.
+Plan: Step1. Understand the premise and hypothesis// Step2. Determine if there is a difference between the information that can be obtained from the premises and the information that can be obtained from the hypothesis.// Step3. Based on what you understand, determine whether the premise falls under 'contradiciton', 'entailment', or 'neutral'.
+Solution: Step1. The premise is that women are sitting at a table with their hands folded, and the hypothesis is that women are praying before lunch.// Step2. Putting your hands together does not necessarily mean you are praying.// Step3. This means that it is impossible to know whether the women are praying. Therefore, the answer is neutral.
+answer: neutral
+{shot}
+premise: Two young children, one wearing a red striped shirt, are looking in through the window while an adult in a pink shirt watches from behind.
+hypothesis: Nobody has a shirt
+Plan: Step1. Understand the premise and hypothesis// Step2. Determine if there is a difference between the information that can be obtained from the premises and the information that can be obtained from the hypothesis.// Step3. Based on what you understand, determine whether the premise falls under 'contradiciton', 'entailment', or 'neutral'.
+Solution: Step1. The premise is about two children wearing shirts, and the hypothesis is that no one is wearing a shirt.// Step2. The information about the number of people wearing shirts is different from the premise and hypothesis.// Step3. This means that the information that can be obtained from the premise and hypothesis is different. Therefore, the answer is contradiction.
+answer: contradiction
+
+premise: Two women bend over to touch a small kangaroo.
+hypothesis: Two women are petting a kangaroo
+Plan: Step1. Understand the premise and hypothesis// Step2. Determine if there is a difference between the information that can be obtained from the premises and the information that can be obtained from the hypothesis.// Step3. Based on what you understand, determine whether the premise falls under 'contradiciton', 'entailment', or 'neutral'.
+Solution: Step1. Both the premise and hypothesis are about women meeting kangaroos.// Step2. The information that can be obtained from the premise and the information that can be obtained from the hypothesis are the same.// Step3. This means that the premise entails a hypothesis. So the answer is entailment.
+answer: entailment
+
+premise: The young man is trying to balance on the train tracks.
+hypothesis: A young man is trying to balance on the train tracks while riding his bicycle.
+Plan: Step1. Understand the premise and hypothesis// Step2. Determine if there is a difference between the information that can be obtained from the premises and the information that can be obtained from the hypothesis.// Step3. Based on what you understand, determine whether the premise falls under 'contradiciton', 'entailment', or 'neutral'.
+Solution: Step1. The premise is that a young man is balancing on a train track, and the hypothesis is that a young man is balancing while riding a bicycle on the tracks.// Step2. The premise does not include the fact that the man is riding a bicycle.// Step3. This means that it is impossible to tell whether the man is riding a bicycle. Therefore, the answer is neutral.
+answer: neutral
+{shot}
+premise: There are children playing in the snow and one of them is making a snowball.
+hypothesis: Two children fight over the remote.
+Plan: Step1. Understand the premise and hypothesis// Step2. Determine if there is a difference between the information that can be obtained from the premises and the information that can be obtained from the hypothesis.// Step3. Based on what you understand, determine whether the premise falls under 'contradiciton', 'entailment', or 'neutral'.
+Solution: Step1. The premise is that children are playing outdoors, and the hypothesis is that children are fighting.// Step2. People cannot fight and play at the same time.// Step3. This means that the information that can be obtained through premises and the information that can be obtained through hypotheses are different. Therefore, the answer is contradiction.
+answer: contradiction
+
+premise: this Man, with a Red& White Shirt has Water Bottles on this White Truck.
+hypothesis: the guy has bottles on the truck
+Plan: Step1. Understand the premise and hypothesis// Step2. Determine if there is a difference between the information that can be obtained from the premises and the information that can be obtained from the hypothesis.// Step3. Based on what you understand, determine whether the premise falls under 'contradiciton', 'entailment', or 'neutral'.
+Solution: Step1. Both the premise and the hypothesis are that a man has a bottle in his truck.// Step2. The information that can be obtained from the premise and the information that can be obtained from the hypothesis are the same.// Step3. This means that the premise entails a hypothesis. Therefore, the answer is entailment.
+answer: entailment
+
+premise: A young woman skateboarding on an outdoor basketball court in front of a mural.
+hypothesis: The young woman is wearing a helmet.
+Plan: Step1. Understand the premise and hypothesis// Step2. Determine if there is a difference between the information that can be obtained from the premises and the information that can be obtained from the hypothesis.// Step3. Based on what you understand, determine whether the premise falls under 'contradiciton', 'entailment', or 'neutral'.
+Solution: Step1. The premise is that a woman skateboards outdoors, and the hypothesis is that the woman wears a helmet.// Step2. There is no mention of wearing a helmet in the premise.// Step3. This means that it is impossible to tell whether the woman was wearing a helmet or not. Therefore, the answer is neutral.
+answer: neutral
+{shot}
